@@ -704,6 +704,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4956406377410295116, guid: fcd6adb4191e3764a9f0baa644f12d03, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.102
+      objectReference: {fileID: 0}
     - target: {fileID: 5312499388539892456, guid: fcd6adb4191e3764a9f0baa644f12d03, type: 3}
       propertyPath: m_Name
       value: MarioRoom
