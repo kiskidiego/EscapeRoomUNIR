@@ -2411,7 +2411,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'From fire, freedom.
 
-    From pages, knowledge'
+    From pages, knowledge.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e41bfc3fd7d2ca041b40a6edb22833bb, type: 2}
   m_sharedMaterial: {fileID: 8826362766869410297, guid: e41bfc3fd7d2ca041b40a6edb22833bb, type: 2}
