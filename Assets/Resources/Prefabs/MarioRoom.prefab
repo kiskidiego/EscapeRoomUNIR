@@ -2901,7 +2901,8 @@ PrefabInstance:
       propertyPath: m_Lightmapping
       value: 1
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 114316633700375258, guid: fb71d571078e952469f83dcc9bb68890, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
@@ -3447,6 +3448,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 108129772820044490, guid: b324f35bcc808f04d91168616dd3434d, type: 3}
+      propertyPath: m_Range
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 108129772820044490, guid: b324f35bcc808f04d91168616dd3434d, type: 3}
       propertyPath: m_Color.b
       value: 0.48742124
       objectReference: {fileID: 0}
@@ -3466,7 +3471,8 @@ PrefabInstance:
       propertyPath: m_Lightmapping
       value: 1
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 114567415295501030, guid: b324f35bcc808f04d91168616dd3434d, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
@@ -3723,7 +3729,8 @@ PrefabInstance:
       propertyPath: m_Lightmapping
       value: 1
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 114316633700375258, guid: fb71d571078e952469f83dcc9bb68890, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
